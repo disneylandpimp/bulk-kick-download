@@ -2,7 +2,7 @@ from selenium import webdriver
 import json
 import os
 
-username = 'shakomako'
+username = 'shakomako' #please unban stylertier and mamadee3
 
 url = f"https://kick.com/api/v1/channels/{username}"
 
